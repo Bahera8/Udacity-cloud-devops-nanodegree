@@ -1,9 +1,9 @@
 # Udacity-cloud-devops-nanodegree
-
 Deploy Static Website on AWS
 Author: Bahera Hussein Sayed
 Udacity cloud DevOps Engineer Nanodegree
 
+URL : http://bucketwebb.s3-website-us-east-1.amazonaws.com
 CloudFront Endpoint: https://d1mvrbdmsiwbcv.cloudfront.net
 https://d1mvrbdmsiwbcv.cloudfront.net/index.html
 
